@@ -1,6 +1,6 @@
 # JustHUD Privacy Policy
 
-JustHUD is an application used to indicate the current speed with which the device with the JustHUD application is moving.
+JustHUD is an application used to indicate the current speed (using unit of km/h) with which the device with the JustHUD application is moving.
 
 An additional function of the application is to indicate the speed limit being activated on the given road on which the device with the JustHUD application is moving. The JustHUD application tries to indicate the most accurate current speed limit, however, it may differ from the actual limitation on the given road on which the device moves. The creator of the application is not responsible for the difference between the speed limit indicated in the application and the actual speed limit applicable on the given road on which the device with the JustHUD application is moving.
 
