@@ -15,4 +15,5 @@ JustHUD applications may experience gaps caused by technical reasons, in particu
 The service may be discontinued in the event of improper connection quality, damage or defects in telecommunications equipment, power systems, computer equipment, failure of the telecommunications network, power outages or any actions of third parties during the transaction.
 
 Using the JustHUD application does not in any way absolve the user from the obligation to comply with traffic regulations, and the creator of the application can not be held responsible for their violation by the user.
-		
+
+You can contact app developer using this email: adrianmsliwa@gmail.com
